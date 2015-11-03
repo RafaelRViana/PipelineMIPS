@@ -1,0 +1,6 @@
+Esta faltando:
+
+1. Unidade de Forwarding
+2. Unidade de Hazard (para detectar quando precisa de bolhas). Por exemplo: BEQ e LW
+3. Desvio com JUMP
+4. Desvio com BEQ
